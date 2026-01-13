@@ -1,5 +1,6 @@
-package com.github.mkriiger.portalalunos.entity;
+package com.github.mkriiger.portalalunos.entity.user;
 
+import com.github.mkriiger.portalalunos.entity.BaseEntity;
 import jakarta.persistence.Column;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

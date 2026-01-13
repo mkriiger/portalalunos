@@ -1,4 +1,4 @@
-package com.github.mkriiger.portalalunos.entity;
+package com.github.mkriiger.portalalunos.entity.user;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
